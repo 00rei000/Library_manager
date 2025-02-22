@@ -13,9 +13,9 @@
 + INSTALL FLASK_PAGINATE  
 + INSTALL SCIKIT-SURPRISE  
 # SET UP DATABASE 
-+ GO TO THE LINK: https://drive.google.com/drive/folders/1fUGpylUS7fCQIj2a8oD-ISevCGOEqR2i?usp=sharing
++ GO TO THE LINK: https://drive.google.com/file/d/11-KjwZxqgWLKyq74T82FiA-DU3BtgFnR/view?usp=drive_link
 + ACCESS YOUR DATABASE AND USE THE .BAK FILE IN THE LINK, RESTORE IT TO YOUR DATABASE.
 + IN THE APP.PY GO TO THE "Database information" AND CHANGE INFORMATION OF YOURS
 # SET UP SVD_MODEL
-+ GO TO THE LINK: https://drive.google.com/drive/folders/1fUGpylUS7fCQIj2a8oD-ISevCGOEqR2i?usp=sharing
++ GO TO THE LINK: https://drive.google.com/file/d/1XM7gXNXPT0NesKkypfJFnYeQ54SPx4mU/view?usp=drive_link
 + DOWLOAD SVD_MODEL.PKL INTO PROJECT.
