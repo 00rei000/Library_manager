@@ -169,11 +169,3 @@ This is a Flask-based web application that provides a book recommendation system
 - Ensure the SQL Server database is accessible and properly configured.
 - The application runs in debug mode (`app.run(debug=True)`). Disable this in production.
 
-## Future Improvements
-
-- Implement secure user authentication with hashed passwords.
-- Add user registration functionality.
-- Enhance search with more advanced filtering options.
-- Improve recommendation accuracy with hybrid models (content-based + collaborative filtering).
-- Add support for uploading book cover images.
-- Implement user profile management.
